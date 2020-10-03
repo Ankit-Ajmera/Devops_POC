@@ -1,4 +1,4 @@
-# Kubernetes Cluster on AWS | Powered by Ansibel and Terraform
+# Kubernetes Cluster on AWS | Powered by Ansible and Terraform
 Setup Kubernetes with Ansible and Terraform 
 
 Prerequisites:
