@@ -1,6 +1,8 @@
 # Kubernetes Cluster on AWS | Powered by Ansible and Terraform
 Setup Kubernetes with Ansible and Terraform 
 
+![alt text](https://seera-bucket.s3.amazonaws.com/k8-deployment-architecture.png)
+
 Prerequisites:
     - Generate a public and private key-pairs using the command below the guide
 
